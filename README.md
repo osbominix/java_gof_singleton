@@ -8,3 +8,6 @@ By running the main class CommandCenter, each class will be called twice.
 In the debugger you can see, that the singleton class just has one same instance, 
 
 as the other class has two instance.
+
+
+![alt tag](https://raw.githubusercontent.com/osbominix/resources/master/images/java_singleton.png)
