@@ -11,3 +11,11 @@ as the other class has two instance.
 
 
 ![alt tag](https://raw.githubusercontent.com/osbominix/resources/master/images/java_singleton.png)
+
+
+Output:
+
+Robot try to produce something
+Robot try to produce something
+Robot try to produce something
+Robot try to produce something
